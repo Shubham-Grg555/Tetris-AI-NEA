@@ -59,10 +59,12 @@ play or AI difficulty to play against)
 ![image](https://github.com/user-attachments/assets/2cdd6e7d-366d-4192-8ddf-da965943a275)
 
 (Trying to login with an email or username that does not exist):
+
 ![image](https://github.com/user-attachments/assets/989f2ef6-0313-4a18-884e-b4c54abb6892)
 
 
 (Trying to login in with an incorrect password):
+
 ![image](https://github.com/user-attachments/assets/e6d43132-05fa-418d-9d7b-6f932a24be89)
 
 
