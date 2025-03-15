@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoginOrRegiser/registerOrLogin.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/LoginOrRegiser/register.unity
+    guid: 6cfd0ad8aea47314ba365fc3494ad8ae
+  - enabled: 1
+    path: Assets/Scenes/LoginOrRegiser/login.unity
+    guid: ebf32e8ee6fa42c4b8b96b6489680f49
+  - enabled: 1
+    path: Assets/Scenes/Gamemodes/soloGameMode.unity
+    guid: 8e328456cce6ae944b70247086b4716c
+  - enabled: 1
+    path: Assets/Scenes/gameOver/gameOverSolo.unity
+    guid: 3792efd031bc6a048902d3a29761a7e3
+  - enabled: 1
+    path: Assets/Scenes/LoginOrRegiser/mainMenu.unity
+    guid: 716d0fa326112134ab607c4b98e1e127
+  - enabled: 0
+    path: Assets/Scenes/gameWon/gameWonSolo.unity
+    guid: 849853665c4da034bbe16d58620ecfcb
+  - enabled: 1
+    path: Assets/Scenes/Gamemodes/easyAIGameMode.unity
+    guid: b6f477df664c15e4fae2b5dd85673034
+  - enabled: 1
+    path: Assets/Scenes/Gamemodes/mediumAIGameMode.unity
+    guid: f03718f335a13114e99a7d1f66a153b4
+  - enabled: 1
+    path: Assets/Scenes/Gamemodes/hardAIGameMode.unity
+    guid: 7987bd4181e08bd46aefc710b80e9f3c
+  - enabled: 1
+    path: Assets/Scenes/gameOver/gameOverEasy.unity
+    guid: 7841ffdade22bbe4c9b2f214ca22672a
+  - enabled: 1
+    path: Assets/Scenes/gameOver/gameOverHard.unity
+    guid: 86a68827f169b5246af729339faf59b8
+  - enabled: 1
+    path: Assets/Scenes/gameOver/gameOverMedium.unity
+    guid: d5d2c1235595f6347ae82350e1fcd238
+  - enabled: 1
+    path: Assets/Scenes/gameWon/gameWonEasy.unity
+    guid: 55d1bcbf161921148bed57c19fc5ffd0
+  - enabled: 1
+    path: Assets/Scenes/gameWon/gameWonHard.unity
+    guid: a2b4c111b84e9e84594d227fbe3754e4
+  - enabled: 1
+    path: Assets/Scenes/gameWon/gameWonMedium.unity
+    guid: 240ae6a7e39708845aca482a8e0cea20
+  m_configObjects: {}
