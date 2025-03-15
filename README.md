@@ -11,11 +11,11 @@ log in and play.
 Can view examples of the project further on in the README.md
 
 ## Side note
-# UI
+### UI
 A very basic UI was used, as the UI quality did not effect the marks, as only
 the actual code and the quality of the code gave marks.
 
-# "Missing files / content"
+### "Missing files / content"
 Did have to remove some firebase stuff for privacy (API) / too large off a file
 (Firebase plugin). If for some reason you would want to clone this software,
 just get the firebase package into unity and all should be fine once you replace
@@ -23,15 +23,15 @@ all the API, email sending stuff and firebase database with your own, as I have
 also shut down the firebase database the project used.
 
 ## Sample images of the project in action:
-# Note: Didn't show all examples of testing because that would be way too many images.
+### Note: Didn't show all examples of testing because that would be way too many images.
 
-# Solo play:
+### Solo play:
 ![image](https://github.com/user-attachments/assets/00fa61df-905b-4de5-bb5f-154f8e7201e0)
 
-# Versus AI:
+### Versus AI:
 ![image](https://github.com/user-attachments/assets/d507cff5-a727-43a1-a102-a9d5bbd17797)
 
-# Registering account and data is added to the database:
+### Registering account and data is added to the database:
 ![image](https://github.com/user-attachments/assets/2a9e2649-d060-4c6f-aa30-91ebede5a7fc)
 
 (Verification code email):
@@ -43,12 +43,12 @@ also shut down the firebase database the project used.
 ![image](https://github.com/user-attachments/assets/c6ab7fec-a1d7-49c6-8bd4-a98d9fcca6af)
 
 
-# Logging in:
+### Logging in:
 (After successful sign it, it moves you into the main menu where you can choose solo
 play or AI difficulty to play against)
 ![image](https://github.com/user-attachments/assets/3d3fc9f1-3075-48b1-ac9d-6dc461213fab)
 
-# Some invalid UI checks:
+### Some invalid UI checks:
 (Added in an extra space in the verificatino code)
 ![image](https://github.com/user-attachments/assets/96a92c87-ce98-474a-bca7-6149fafa38d9)
 
