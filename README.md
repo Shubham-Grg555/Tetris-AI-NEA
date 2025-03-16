@@ -6,7 +6,8 @@ where you need to make an account with a valid email address to play. To make an
 account you need to verify your email address by typing in a verification code,
 that gets emailed to you. Once the account has been verified, all necessary data
 like email, password etc is stored in a firebase database, so you are able to
-log in and play.
+log in and play. Also a heuristic AI approach was implemented to calculate what
+would be the best move for the AI to make.
 
 Can view examples of the project further on in the README.md
 
@@ -35,6 +36,7 @@ also shut down the firebase database the project used.
 ![image](https://github.com/user-attachments/assets/2a9e2649-d060-4c6f-aa30-91ebede5a7fc)
 
 (Verification code email):
+
 ![image](https://github.com/user-attachments/assets/9d2acffd-774a-4857-b0c8-76eca7d90cd1)
 
 (Password is securely stored using firebase authentication):
